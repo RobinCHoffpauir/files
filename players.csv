@@ -1,0 +1,332 @@
+entry_id,contest_id,contest_name,P,C/1B,2B,3B,SS,OF,OF,OF,UTIL,,Instructions,,,,,,,,,,,,,,,,,
+2539138911,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,1) Edit your lineup by inserting any player from this list into their appropriate position columns,,,,,,,,,,,,,,,,,
+2539138913,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,2) You can paste either the Player ID + Name OR ID from their respective columns,,,,,,,,,,,,,,,,,
+2539138914,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,3) Any information to the right of the last position column will be ignored in the upload. Don't leave blank rows. Any entries after a blank row will not be edited,,,,,,,,,,,,,,,,,
+2539138916,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,4) You can not use this form to create new entries,,,,,,,,,,,,,,,,,
+2539138917,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2539138918,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,Player ID + Player Name,Id,Position,First Name,Nickname,Last Name,FPPG,Played,Salary,Game,Team,Opponent,Injury Indicator,Injury Details,Tier,Probable Pitcher,Batting Order,Roster Position
+2539138919,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-53607:Anthony DeSclafani,62262-53607,P,Anthony,Anthony DeSclafani,DeSclafani,28.625,24,8700,SF@ARI,SF,ARI,,,,Yes,,P
+2539138920,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-154714:Tylor Megill,62262-154714,P,Tylor,Tylor Megill,Megill,30.42857143,7,8500,NYM@MIA,NYM,MIA,,,,Yes,,P
+2539138922,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,a,,,62262-79103:Dane Dunning,62262-79103,P,Dane,Dane Dunning,Dunning,23.68421053,19,7600,LAA@TEX,TEX,LAA,,,,Yes,,P
+2539138923,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-52167:Andrew Heaney,62262-52167,P,Andrew,Andrew Heaney,Heaney,28.88888889,18,7600,BAL@NYY,NYY,BAL,,,,Yes,,P
+2539138924,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-79226:Eric Lauer,62262-79226,P,Eric,Eric Lauer,Lauer,22.8,15,7500,PIT@MIL,MIL,PIT,,,,Yes,,P
+2539138925,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-81490:Chris Flexen,62262-81490,P,Chris,Chris Flexen,Flexen,24.25,20,7300,SEA@TB,SEA,TB,,,,Yes,,P
+2539138926,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-37999:Michael Wacha,62262-37999,P,Michael,Michael Wacha,Wacha,17.66666667,18,7100,SEA@TB,TB,SEA,,,,Yes,,P
+2539138928,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-82534:Bryse Wilson,62262-82534,P,Bryse,Bryse Wilson,Wilson,18.14285714,7,6900,PIT@MIL,PIT,MIL,,,,Yes,,P
+2539138929,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-85265:Taylor Widener,62262-85265,P,Taylor,Taylor Widener,Widener,22.25,8,6500,SF@ARI,ARI,SF,,,,Yes,,P
+2539138930,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-102502:Josiah Gray,62262-102502,P,Josiah,Josiah Gray,Gray,22.5,2,6300,PHI@WSH,WSH,PHI,,,,Yes,,P
+2539138932,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-66765:Jorge Lopez,62262-66765,P,Jorge,Jorge Lopez,Lopez,18.28571429,21,6000,BAL@NYY,BAL,NYY,,,,Yes,,P
+2539138934,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-79282:Juan Soto,62262-79282,OF,Juan,Juan Soto,Soto,12.5212766,94,4500,PHI@WSH,WSH,PHI,,,,,,OF/UTIL
+2539138936,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-12940:Anthony Rizzo,62262-12940,1B,Anthony,Anthony Rizzo,Rizzo,9.986315918,95,4400,BAL@NYY,NYY,BAL,,,,,,C/1B/UTIL
+2539138937,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-12948:Bryce Harper,62262-12948,OF,Bryce,Bryce Harper,Harper,12.40240993,83,4300,PHI@WSH,PHI,WSH,,,,,,OF/UTIL
+2539167253,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-52147:Kris Bryant,62262-52147,3B/OF,Kris,Kris Bryant,Bryant,11.06170265,94,4200,SF@ARI,SF,ARI,,,,,,3B/OF/UTIL
+2539167256,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-79215:Rhys Hoskins,62262-79215,1B,Rhys,Rhys Hoskins,Hoskins,11.26099976,100,4100,PHI@WSH,PHI,WSH,DTD,Groin,,,,C/1B/UTIL
+2539167261,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-60643:Aaron Judge,62262-60643,OF,Aaron,Aaron Judge,Judge,11.18777805,90,4000,BAL@NYY,NYY,BAL,,,,,,OF/UTIL
+2539167265,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-16948:Kolten Wong,62262-16948,2B,Kolten,Kolten Wong,Wong,10.51076942,65,3900,PIT@MIL,MIL,PIT,,,,,,2B/UTIL
+2539167266,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-52180:Austin Meadows,62262-52180,OF,Austin,Austin Meadows,Meadows,11.65656566,99,3800,SEA@TB,TB,SEA,,,,,,OF/UTIL
+2539167267,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-5763:Nelson Cruz,62262-5763,OF,Nelson,Nelson Cruz,Cruz,10.71075243,93,3700,SEA@TB,TB,SEA,,,,,,OF/UTIL
+2539167269,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-82614:Pete Alonso,62262-82614,1B,Pete,Pete Alonso,Alonso,10.67659548,94,3700,NYM@MIA,NYM,MIA,,,,,,C/1B/UTIL
+2539167272,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-13239:Eduardo Escobar,62262-13239,3B/2B,Eduardo,Eduardo Escobar,Escobar,10.29108935,101,3700,PIT@MIL,MIL,PIT,,,,,,2B/3B/UTIL
+2539167276,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-12302:Giancarlo Stanton,62262-12302,OF,Giancarlo,Giancarlo Stanton,Stanton,9.785714286,84,3600,BAL@NYY,NYY,BAL,,,,,,OF/UTIL
+2539167279,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-5456:Andrew McCutchen,62262-5456,OF,Andrew,Andrew McCutchen,McCutchen,10.95876289,97,3600,PHI@WSH,PHI,WSH,DTD,Knee,,,,OF/UTIL
+2539167282,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-101787:LaMonte Wade Jr.,62262-101787,OF,LaMonte,LaMonte Wade Jr.,Wade Jr.,9.967272949,55,3600,SF@ARI,SF,ARI,DTD,Back,,,,OF/UTIL
+2539167287,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-12985:Avisail Garcia,62262-12985,OF,Avisail,Avisail Garcia,Garcia,10.24623682,93,3600,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+2539167291,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-60655:Willy Adames,62262-60655,SS,Willy,Willy Adames,Adames,10.11359176,103,3500,PIT@MIL,MIL,PIT,,,,,,SS/UTIL
+2539167295,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-85261:Randy Arozarena,62262-85261,OF,Randy,Randy Arozarena,Arozarena,10.84999975,96,3500,SEA@TB,TB,SEA,,,,,,OF/UTIL
+2539167298,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-21853:Ketel Marte,62262-21853,2B/OF,Ketel,Ketel Marte,Marte,11.06052599,38,3500,SF@ARI,ARI,SF,,,,,,2B/OF/UTIL
+2539167301,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-21885:Javier Baez,62262-21885,SS,Javier,Javier Baez,Baez,11.11075321,93,3500,NYM@MIA,NYM,MIA,,,,,,SS/UTIL
+2539167303,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-38321:Joey Gallo,62262-38321,OF,Joey,Joey Gallo,Gallo,11.3561227,98,3500,BAL@NYY,NYY,BAL,,,,,,OF/UTIL
+2539167304,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-73159:Mitch Haniger,62262-73159,OF,Mitch,Mitch Haniger,Haniger,11.44257377,101,3500,SEA@TB,SEA,TB,,,,,,OF/UTIL
+2539167307,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-12933:Mike Trout,62262-12933,OF,Mike,Mike Trout,Trout,12.62777795,36,3500,LAA@TEX,LAA,TEX,IL,Calf,,,,OF/UTIL
+2539167310,62262-247674919,$12K Mon MLB Pinch Hit (Only $0.25 to Enter),,,,,,,,,,,62262-53033:Mike Yastrzemski,62262-53033,OF,Mike,Mike Yastrzemski,Yastrzemski,10.50459798,87,3500,SF@ARI,SF,ARI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13966:Kyle Seager,62262-13966,3B,Kyle,Kyle Seager,Seager,9.799038227,104,3400,SEA@TB,SEA,TB,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-13436:Max Stassi,62262-13436,C,Max,Max Stassi,Stassi,10.10204082,49,3300,LAA@TEX,LAA,TEX,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-12434:Lorenzo Cain,62262-12434,OF,Lorenzo,Lorenzo Cain,Cain,9.413888719,36,3300,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-85504:Brandon Lowe,62262-85504,2B/OF,Brandon,Brandon Lowe,Lowe,10.80204057,98,3300,SEA@TB,TB,SEA,,,,,,2B/OF/UTIL
+,,,,,,,,,,,,,62262-82536:Cedric Mullins,62262-82536,OF,Cedric,Cedric Mullins,Mullins,11.61372525,102,3300,BAL@NYY,BAL,NYY,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-21584:Rougned Odor,62262-21584,2B/3B,Rougned,Rougned Odor,Odor,8.48208937,67,3200,BAL@NYY,NYY,BAL,,,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-53401:Trey Mancini,62262-53401,1B/OF,Trey,Trey Mancini,Mancini,10.54059382,101,3200,BAL@NYY,BAL,NYY,,,,,,C/1B/OF/UTIL
+,,,,,,,,,,,,,62262-12961:Brandon Crawford,62262-12961,SS,Brandon,Brandon Crawford,Crawford,11.78720944,86,3200,SF@ARI,SF,ARI,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-6292:Buster Posey,62262-6292,1B,Buster,Buster Posey,Posey,10.90588199,68,3100,SF@ARI,SF,ARI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-102621:Wander Franco,62262-102621,SS,Wander,Wander Franco,Franco,9.746666463,30,3100,SEA@TB,TB,SEA,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-79120:Yandy Diaz,62262-79120,1B/3B,Yandy,Yandy Diaz,Diaz,8.837078652,89,3100,SEA@TB,TB,SEA,,,,,,C/1B/3B/UTIL
+,,,,,,,,,,,,,62262-79230:Bryan Reynolds,62262-79230,OF,Bryan,Bryan Reynolds,Reynolds,11.28235342,102,3100,PIT@MIL,PIT,MIL,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-53994:Josh Bell,62262-53994,1B,Josh,Josh Bell,Bell,9.764772589,88,3100,PHI@WSH,WSH,PHI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13188:Jean Segura,62262-13188,2B/3B/SS,Jean,Jean Segura,Segura,10.41315822,76,3100,PHI@WSH,PHI,WSH,,,,,,2B/3B/SS/UTIL
+,,,,,,,,,,,,,62262-68531:Brian Anderson,62262-68531,3B,Brian,Brian Anderson,Anderson,8.552381243,42,3100,NYM@MIA,MIA,NYM,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-104483:Jared Walsh,62262-104483,1B,Jared,Jared Walsh,Walsh,10.80309304,97,3000,LAA@TEX,LAA,TEX,IL,Chest,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-21609:Christian Yelich,62262-21609,OF,Christian,Christian Yelich,Yelich,10.19104459,67,3000,PIT@MIL,MIL,PIT,IL,Illness,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13567:DJ LeMahieu,62262-13567,2B/3B,DJ,DJ LeMahieu,LeMahieu,8.960203833,98,3000,BAL@NYY,NYY,BAL,DTD,Triceps,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-85307:Jeff McNeil,62262-85307,2B/3B,Jeff,Jeff McNeil,McNeil,7.907576127,66,3000,NYM@MIA,NYM,MIA,,,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-5445:Alcides Escobar,62262-5445,SS,Alcides,Alcides Escobar,Escobar,9.431818182,22,3000,PHI@WSH,WSH,PHI,DTD,Wrist,,,,SS/UTIL
+,,,,,,,,,,,,,62262-13638:Wilmer Flores,62262-13638,2B/3B,Wilmer,Wilmer Flores,Flores,7.857446549,94,3000,SF@ARI,SF,ARI,DTD,Back,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-53586:David Peralta,62262-53586,OF,David,David Peralta,Peralta,8.143877302,98,3000,SF@ARI,ARI,SF,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79225:Luis Urias,62262-79225,2B/SS,Luis,Luis Urias,Urias,9.155,100,3000,PIT@MIL,MIL,PIT,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-101842:Ty France,62262-101842,2B/3B,Ty,Ty France,France,9.498958588,96,3000,SEA@TB,SEA,TB,,,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-85520:Adolis Garcia,62262-85520,OF,Adolis,Adolis Garcia,Garcia,10.90531889,94,3000,LAA@TEX,TEX,LAA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-71217:Omar Narvaez,62262-71217,C,Omar,Omar Narvaez,Narvaez,8.402468834,81,3000,PIT@MIL,MIL,PIT,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-16951:Anthony Rendon,62262-16951,3B,Anthony,Anthony Rendon,Rendon,9.220689445,58,3000,LAA@TEX,LAA,TEX,IL,Hamstring,,,,3B/UTIL
+,,,,,,,,,,,,,62262-16952:Francisco Lindor,62262-16952,SS,Francisco,Francisco Lindor,Lindor,9.422988365,87,3000,NYM@MIA,NYM,MIA,IL,Oblique,,,,SS/UTIL
+,,,,,,,,,,,,,62262-82527:Jazz Chisholm Jr.,62262-82527,2B/SS,Jazz,Jazz Chisholm Jr.,Chisholm Jr.,10.16164367,73,3000,NYM@MIA,MIA,NYM,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-17139:J.T. Realmuto,62262-17139,C,J.T.,J.T. Realmuto,Realmuto,9.936904907,84,3000,PHI@WSH,PHI,WSH,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-80838:Luke Voit,62262-80838,1B,Luke,Luke Voit,Voit,8.348276073,29,3000,BAL@NYY,NYY,BAL,IL,Knee,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-52187:Ji-Man Choi,62262-52187,1B,Ji-Man,Ji-Man Choi,Choi,9.692156623,51,3000,SEA@TB,TB,SEA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-38973:Tyrone Taylor,62262-38973,OF,Tyrone,Tyrone Taylor,Taylor,7.948571777,70,2900,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-135239:Rodolfo Castro,62262-135239,SS,Rodolfo,Rodolfo Castro,Castro,10.12307739,13,2900,PIT@MIL,PIT,MIL,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-38016:Jesus Aguilar,62262-38016,1B,Jesus,Jesus Aguilar,Aguilar,9.616831562,101,2900,NYM@MIA,MIA,NYM,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-73871:Carson Kelly,62262-73871,C,Carson,Carson Kelly,Kelly,9.22307704,52,2900,SF@ARI,ARI,SF,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-38218:Christian Walker,62262-38218,1B,Christian,Christian Walker,Walker,7.360605876,66,2900,SF@ARI,ARI,SF,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-52170:Dominic Smith,62262-52170,1B/OF,Dominic,Dominic Smith,Smith,7.941414265,99,2900,NYM@MIA,NYM,MIA,,,,,,C/1B/OF/UTIL
+,,,,,,,,,,,,,62262-68588:Gleyber Torres,62262-68588,SS/2B,Gleyber,Gleyber Torres,Torres,8.161956787,92,2900,BAL@NYY,NYY,BAL,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-5221:Asdrubal Cabrera,62262-5221,1B/3B,Asdrubal,Asdrubal Cabrera,Cabrera,7.848571777,70,2800,SF@ARI,ARI,SF,,,,,,C/1B/3B/UTIL
+,,,,,,,,,,,,,62262-13430:Jonathan Villar,62262-13430,2B/3B/SS,Jonathan,Jonathan Villar,Villar,7.628235581,85,2800,NYM@MIA,NYM,MIA,,,,,,2B/3B/SS/UTIL
+,,,,,,,,,,,,,62262-79151:Taylor Ward,62262-79151,3B,Taylor,Taylor Ward,Ward,8.725397019,63,2800,LAA@TEX,LAA,TEX,DTD,Ribs,,,,3B/UTIL
+,,,,,,,,,,,,,62262-79156:David Fletcher,62262-79156,2B/SS,David,David Fletcher,Fletcher,8.555999756,100,2800,LAA@TEX,LAA,TEX,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-79216:Ke'Bryan Hayes,62262-79216,3B,Ke'Bryan,Ke'Bryan Hayes,Hayes,8.64509792,51,2800,PIT@MIL,PIT,MIL,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-16945:Gary Sanchez,62262-16945,C,Gary,Gary Sanchez,Sanchez,9.37037037,81,2800,BAL@NYY,NYY,BAL,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13924:Kole Calhoun,62262-13924,OF,Kole,Kole Calhoun,Calhoun,6.985714504,28,2800,SF@ARI,ARI,SF,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-52178:Maikel Franco,62262-52178,3B,Maikel,Maikel Franco,Franco,7.912790698,86,2800,BAL@NYY,BAL,NYY,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-52179:J.P. Crawford,62262-52179,SS,J.P.,J.P. Crawford,Crawford,8.059999884,105,2800,SEA@TB,SEA,TB,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-17382:Gregory Polanco,62262-17382,OF,Gregory,Gregory Polanco,Polanco,7.993975904,83,2800,PIT@MIL,PIT,MIL,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79884:Anthony Santander,62262-79884,OF,Anthony,Anthony Santander,Santander,7.669230769,65,2700,BAL@NYY,BAL,NYY,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-6197:Justin Upton,62262-6197,OF,Justin,Justin Upton,Upton,9.923288006,73,2700,LAA@TEX,LAA,TEX,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13390:Miguel Rojas,62262-13390,SS,Miguel,Miguel Rojas,Rojas,8.97710814,83,2700,NYM@MIA,MIA,NYM,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-54401:Manuel Margot,62262-54401,OF,Manuel,Manuel Margot,Margot,8.873750305,80,2700,SEA@TB,TB,SEA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-85285:Nathaniel Lowe,62262-85285,1B,Nathaniel,Nathaniel Lowe,Lowe,9.240776581,103,2700,LAA@TEX,TEX,LAA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-17097:Brandon Nimmo,62262-17097,OF,Brandon,Brandon Nimmo,Nimmo,9.471739396,46,2700,NYM@MIA,NYM,MIA,DTD,Hamstring,,,,OF/UTIL
+,,,,,,,,,,,,,62262-68525:J.D. Davis,62262-68525,3B/OF,J.D.,J.D. Davis,Davis,7.75,30,2700,NYM@MIA,NYM,MIA,,,,,,3B/OF/UTIL
+,,,,,,,,,,,,,62262-5062:Ryan Zimmerman,62262-5062,1B,Ryan,Ryan Zimmerman,Zimmerman,6.409722222,72,2700,PHI@WSH,WSH,PHI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-52168:Colin Moran,62262-52168,1B/3B,Colin,Colin Moran,Moran,7.442857392,49,2700,PIT@MIL,PIT,MIL,IL,Wrist,,,,C/1B/3B/UTIL
+,,,,,,,,,,,,,62262-60642:Michael Conforto,62262-60642,OF,Michael,Michael Conforto,Conforto,7.104348003,69,2600,NYM@MIA,NYM,MIA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79082:Ryan Mountcastle,62262-79082,1B/OF,Ryan,Ryan Mountcastle,Mountcastle,9.610309404,97,2600,BAL@NYY,BAL,NYY,,,,,,C/1B/OF/UTIL
+,,,,,,,,,,,,,62262-79277:Rowdy Tellez,62262-79277,1B,Rowdy,Rowdy Tellez,Tellez,6.208823709,68,2600,PIT@MIL,MIL,PIT,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-65991:Pedro Severino,62262-65991,C,Pedro,Pedro Severino,Severino,7.229577293,71,2600,BAL@NYY,BAL,NYY,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13841:Didi Gregorius,62262-13841,SS,Didi,Didi Gregorius,Gregorius,8.598181707,55,2600,PHI@WSH,PHI,WSH,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-82533:Daulton Varsho,62262-82533,OF,Daulton,Daulton Varsho,Varsho,7.0625,48,2600,SF@ARI,ARI,SF,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-70665:Jacob Stallings,62262-70665,C,Jacob,Jacob Stallings,Stallings,8.060256567,78,2500,PIT@MIL,PIT,MIL,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-79896:Luis Torrens,62262-79896,C,Luis,Luis Torrens,Torrens,8.241666667,60,2500,SEA@TB,SEA,TB,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-81953:Austin Hays,62262-81953,OF,Austin,Austin Hays,Hays,9.199999835,74,2500,BAL@NYY,BAL,NYY,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-135224:Yadiel Hernandez,62262-135224,OF,Yadiel,Yadiel Hernandez,Hernandez,4.381967013,61,2500,PHI@WSH,WSH,PHI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-37983:Mike Zunino,62262-37983,C,Mike,Mike Zunino,Zunino,9.37638855,72,2500,SEA@TB,TB,SEA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13412:Donovan Solano,62262-13412,2B/SS,Donovan,Donovan Solano,Solano,7.201351681,74,2500,SF@ARI,SF,ARI,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-73832:Joey Wendle,62262-73832,3B/SS,Joey,Joey Wendle,Wendle,9.186046512,86,2500,SEA@TB,TB,SEA,,,,,,3B/SS/UTIL
+,,,,,,,,,,,,,62262-135290:John Nogowski,62262-135290,1B,John,John Nogowski,Nogowski,5.629268367,41,2500,PIT@MIL,PIT,MIL,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-81046:Garrett Cooper,62262-81046,1B/OF,Garrett,Garrett Cooper,Cooper,8.725352113,71,2500,NYM@MIA,MIA,NYM,IL,Elbow,,,,C/1B/OF/UTIL
+,,,,,,,,,,,,,62262-104629:Jack Mayfield,62262-104629,SS,Jack,Jack Mayfield,Mayfield,5.347058913,34,2500,LAA@TEX,LAA,TEX,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-38112:Gio Urshela,62262-38112,3B,Gio,Gio Urshela,Urshela,8.5345241,84,2500,BAL@NYY,NYY,BAL,DTD,Hamstring,,,,3B/UTIL
+,,,,,,,,,,,,,62262-118120:Jonah Heim,62262-118120,C,Jonah,Jonah Heim,Heim,6.944642748,56,2500,LAA@TEX,TEX,LAA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-79234:Kyle Lewis,62262-79234,OF,Kyle,Kyle Lewis,Lewis,8.402777778,36,2500,SEA@TB,SEA,TB,IL,Knee,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13706:Adam Eaton,62262-13706,OF,Adam,Adam Eaton,Eaton,7.372000326,75,2500,LAA@TEX,LAA,TEX,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-38282:Daniel Vogelbach,62262-38282,1B,Daniel,Daniel Vogelbach,Vogelbach,6.098507554,67,2500,PIT@MIL,MIL,PIT,IL,Hamstring,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-38319:Odubel Herrera,62262-38319,OF,Odubel,Odubel Herrera,Herrera,8.170833164,72,2500,PHI@WSH,PHI,WSH,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-5607:Evan Longoria,62262-5607,3B,Evan,Evan Longoria,Longoria,10.49199951,50,2500,SF@ARI,SF,ARI,IL,Shoulder,,,,3B/UTIL
+,,,,,,,,,,,,,62262-82530:Pavin Smith,62262-82530,1B/OF,Pavin,Pavin Smith,Smith,8.358333588,96,2500,SF@ARI,ARI,SF,IL,Undisclosed,,,,C/1B/OF/UTIL
+,,,,,,,,,,,,,62262-12900:Brandon Belt,62262-12900,1B,Brandon,Brandon Belt,Belt,10.23636364,55,2500,SF@ARI,SF,ARI,IL,Knee,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-116339:Abraham Toro,62262-116339,3B,Abraham,Abraham Toro,Toro,9.934999847,40,2500,SEA@TB,SEA,TB,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-12919:Jose Iglesias,62262-12919,SS,Jose,Jose Iglesias,Iglesias,7.817582686,91,2500,LAA@TEX,LAA,TEX,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-113309:Josh Rojas,62262-113309,2B/SS,Josh,Josh Rojas,Rojas,9.129032258,93,2500,SF@ARI,ARI,SF,IL,Finger,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-38571:Travis Shaw,62262-38571,1B/3B,Travis,Travis Shaw,Shaw,6.942856925,56,2500,PIT@MIL,MIL,PIT,IL,Shoulder,,,,C/1B/3B/UTIL
+,,,,,,,,,,,,,62262-82605:Keston Hiura,62262-82605,1B/2B,Keston,Keston Hiura,Hiura,5.800000207,59,2500,PIT@MIL,MIL,PIT,,,,,,C/1B/2B/UTIL
+,,,,,,,,,,,,,62262-21172:Brandon Drury,62262-21172,3B/OF,Brandon,Brandon Drury,Drury,5.299999815,33,2500,NYM@MIA,NYM,MIA,,,,,,3B/OF/UTIL
+,,,,,,,,,,,,,62262-12168:Starlin Castro,62262-12168,2B,Starlin,Starlin Castro,Castro,7.413793103,87,2500,PHI@WSH,WSH,PHI,NA,Not injury related,,,,2B/UTIL
+,,,,,,,,,,,,,62262-82977:Isiah Kiner-Falefa,62262-82977,3B/SS,Isiah,Isiah Kiner-Falefa,Kiner-Falefa,8.273077158,104,2400,LAA@TEX,TEX,LAA,,,,,,3B/SS/UTIL
+,,,,,,,,,,,,,62262-21612:Nick Ahmed,62262-21612,SS,Nick,Nick Ahmed,Ahmed,6.276344217,93,2400,SF@ARI,ARI,SF,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-21637:Jackie Bradley Jr.,62262-21637,OF,Jackie,Jackie Bradley Jr.,Bradley Jr.,6.145263029,95,2400,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-102584:Tres Barrera,62262-102584,C,Tres,Tres Barrera,Barrera,7.205555386,18,2400,PHI@WSH,WSH,PHI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-79113:Francisco Mejia,62262-79113,C,Francisco,Francisco Mejia,Mejia,7.294642857,56,2400,SEA@TB,TB,SEA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-79218:Kevin Newman,62262-79218,2B/SS,Kevin,Kevin Newman,Newman,5.587500254,96,2400,PIT@MIL,PIT,MIL,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-101753:Dylan Moore,62262-101753,2B/OF,Dylan,Dylan Moore,Moore,8.333333333,81,2400,SEA@TB,SEA,TB,,,,,,2B/OF/UTIL
+,,,,,,,,,,,,,62262-79248:Magneuris Sierra,62262-79248,OF,Magneuris,Magneuris Sierra,Sierra,3.051190331,84,2400,NYM@MIA,MIA,NYM,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-38324:Jorge Alfaro,62262-38324,C,Jorge,Jorge Alfaro,Alfaro,5.427118851,59,2400,NYM@MIA,MIA,NYM,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-101850:Ramon Urias,62262-101850,2B,Ramon,Ramon Urias,Urias,7.603921329,51,2400,BAL@NYY,BAL,NYY,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-14000:Darin Ruf,62262-14000,OF,Darin,Darin Ruf,Ruf,7.798666992,75,2400,SF@ARI,SF,ARI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-82613:Thairo Estrada,62262-82613,SS,Thairo,Thairo Estrada,Estrada,7.877777665,27,2400,SF@ARI,SF,ARI,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-82660:Luis Garcia,62262-82660,2B,Luis,Luis Garcia,Garcia,3.886666616,15,2400,PHI@WSH,WSH,PHI,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-102370:Alec Bohm,62262-102370,1B/3B,Alec,Alec Bohm,Bohm,7.954255449,94,2400,PHI@WSH,PHI,WSH,,,,,,C/1B/3B/UTIL
+,,,,,,,,,,,,,62262-102418:Eli White,62262-102418,2B,Eli,Eli White,White,6.543548584,62,2300,LAA@TEX,TEX,LAA,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-21573:Jace Peterson,62262-21573,OF,Jace,Jace Peterson,Peterson,8.582000122,50,2300,PIT@MIL,MIL,PIT,IL,Not injury related,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79115:Greg Allen,62262-79115,OF,Greg,Greg Allen,Allen,9.61428615,14,2300,BAL@NYY,NYY,BAL,DTD,Knee,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79178:Isan Diaz,62262-79178,2B,Isan,Isan Diaz,Diaz,5.181632528,49,2300,NYM@MIA,MIA,NYM,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-5473:Gerardo Parra,62262-5473,OF,Gerardo,Gerardo Parra,Parra,5.2,30,2300,PHI@WSH,WSH,PHI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13685:Brock Holt,62262-13685,3B/OF,Brock,Brock Holt,Holt,5.676271083,59,2300,LAA@TEX,TEX,LAA,,,,,,3B/OF/UTIL
+,,,,,,,,,,,,,62262-81506:Jordan Luplow,62262-81506,OF,Jordan,Jordan Luplow,Luplow,8.511110942,36,2300,SEA@TB,TB,SEA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-80485:Austin Slater,62262-80485,OF,Austin,Austin Slater,Slater,6.0625,88,2300,SF@ARI,SF,ARI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-17105:Sandy Leon,62262-17105,C,Sandy,Sandy Leon,Leon,4.184482706,58,2300,NYM@MIA,MIA,NYM,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-82659:Carter Kieboom,62262-82659,3B,Carter,Carter Kieboom,Kieboom,4.455555386,9,2300,PHI@WSH,WSH,PHI,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-70435:Ben Gamel,62262-70435,OF,Ben,Ben Gamel,Gamel,6.214102721,78,2300,PIT@MIL,PIT,MIL,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-101276:Jon Berti,62262-101276,2B/3B,Jon,Jon Berti,Berti,6.476470588,85,2300,NYM@MIA,MIA,NYM,IL,Concussion,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-102398:Jarred Kelenic,62262-102398,OF,Jarred,Jarred Kelenic,Kelenic,5.997435741,39,2300,SEA@TB,SEA,TB,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-81980:Phillip Evans,62262-81980,3B,Phillip,Phillip Evans,Evans,5.951470768,68,2200,PIT@MIL,PIT,MIL,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-102554:Cal Raleigh,62262-102554,C,Cal,Cal Raleigh,Raleigh,7.190908952,11,2200,SEA@TB,SEA,TB,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13520:Phil Gosselin,62262-13520,2B,Phil,Phil Gosselin,Gosselin,6.073214395,56,2200,LAA@TEX,LAA,TEX,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-79087:Michael Chavis,62262-79087,1B/2B,Michael,Michael Chavis,Chavis,5.079999797,30,2200,PIT@MIL,PIT,MIL,,,,,,C/1B/2B/UTIL
+,,,,,,,,,,,,,62262-85274:DJ Stewart,62262-85274,OF,DJ,DJ Stewart,Stewart,6.916666667,72,2200,BAL@NYY,BAL,NYY,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79152:Matt Thaiss,62262-79152,1B,Matt,Matt Thaiss,Thaiss,4.599999905,2,2200,LAA@TEX,LAA,TEX,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-79154:Brandon Marsh,62262-79154,OF,Brandon,Brandon Marsh,Marsh,5.485714504,14,2200,LAA@TEX,LAA,TEX,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79238:Steven Duggar,62262-79238,OF,Steven,Steven Duggar,Duggar,7.588607595,79,2200,SF@ARI,SF,ARI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-38299:Kevin Pillar,62262-38299,OF,Kevin,Kevin Pillar,Pillar,5.748780413,82,2200,NYM@MIA,NYM,MIA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79267:Andy Ibanez,62262-79267,2B,Andy,Andy Ibanez,Ibanez,6.049999839,38,2200,LAA@TEX,TEX,LAA,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-82551:Shed Long Jr.,62262-82551,2B,Shed,Shed Long Jr.,Long Jr.,7.473529591,34,2200,SEA@TB,SEA,TB,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-17025:Joe Panik,62262-17025,2B/3B,Joe,Joe Panik,Panik,4.673015776,63,2200,NYM@MIA,MIA,NYM,,,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-13961:Kevin Kiermaier,62262-13961,OF,Kevin,Kevin Kiermaier,Kiermaier,6.335064777,77,2200,SEA@TB,TB,SEA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-104085:Josh VanMeter,62262-104085,2B,Josh,Josh VanMeter,VanMeter,5.464615572,65,2200,SF@ARI,ARI,SF,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-82620:Nick Solak,62262-82620,2B/OF,Nick,Nick Solak,Solak,7.971739396,92,2200,LAA@TEX,TEX,LAA,,,,,,2B/OF/UTIL
+,,,,,,,,,,,,,62262-38599:Lewis Brinson,62262-38599,OF,Lewis,Lewis Brinson,Brinson,4.315789474,38,2200,NYM@MIA,MIA,NYM,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-17167:Brad Miller,62262-17167,1B,Brad,Brad Miller,Miller,6.283721214,86,2200,PHI@WSH,PHI,WSH,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-17171:James McCann,62262-17171,C,James,James McCann,McCann,6.36590923,88,2200,NYM@MIA,NYM,MIA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13098:Rene Rivera,62262-13098,C,Rene,Rene Rivera,Rivera,6.004000244,25,2200,PHI@WSH,WSH,PHI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-17198:Tommy La Stella,62262-17198,2B/3B,Tommy,Tommy La Stella,La Stella,5.324000244,25,2200,SF@ARI,SF,ARI,IL,Hamstring,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-5948:Brett Gardner,62262-5948,OF,Brett,Brett Gardner,Gardner,5.548863498,88,2200,BAL@NYY,NYY,BAL,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13209:Manny Pina,62262-13209,C,Manny,Manny Pina,Pina,5.737499873,48,2200,PIT@MIL,MIL,PIT,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-68563:Victor Robles,62262-68563,OF,Victor,Victor Robles,Robles,5.998850855,87,2200,PHI@WSH,WSH,PHI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-135190:Taylor Walls,62262-135190,SS,Taylor,Taylor Walls,Walls,6.602564103,39,2100,SEA@TB,TB,SEA,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-156707:Hoy Park,62262-156707,2B,Hoy,Hoy Park,Park,4.599999905,2,2100,PIT@MIL,PIT,MIL,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-102439:Andrew Young,62262-102439,3B,Andrew,Andrew Young,Young,4.73777771,45,2100,SF@ARI,ARI,SF,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-38952:Alex Dickerson,62262-38952,OF,Alex,Alex Dickerson,Dickerson,6.122499847,80,2100,SF@ARI,SF,ARI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79918:Kyle Higashioka,62262-79918,C,Kyle,Kyle Higashioka,Higashioka,6.138461382,39,2100,BAL@NYY,NYY,BAL,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-5189:Josh Reddick,62262-5189,OF,Josh,Josh Reddick,Reddick,5.486538227,52,2100,SF@ARI,ARI,SF,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13451:Ronald Torreyes,62262-13451,SS,Ronald,Ronald Torreyes,Torreyes,6.623728607,59,2100,PHI@WSH,PHI,WSH,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-73879:Pat Valaika,62262-73879,2B/SS,Pat,Pat Valaika,Valaika,4.687142944,70,2100,BAL@NYY,BAL,NYY,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-5311:Kurt Suzuki,62262-5311,C,Kurt,Kurt Suzuki,Suzuki,5.13958327,48,2100,LAA@TEX,LAA,TEX,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-60649:Alex Jackson,62262-60649,C,Alex,Alex Jackson,Jackson,2.439999962,10,2100,NYM@MIA,MIA,NYM,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-62780:Wilmer Difo,62262-62780,SS,Wilmer,Wilmer Difo,Difo,4.399999818,67,2100,PIT@MIL,PIT,MIL,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-38223:Travis Jankowski,62262-38223,OF,Travis,Travis Jankowski,Jankowski,5.320512821,39,2100,PHI@WSH,PHI,WSH,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-157036:Curtis Terry,62262-157036,1B,Curtis,Curtis Terry,Terry,2.033333302,6,2100,LAA@TEX,TEX,LAA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-151924:Luis Marte,62262-151924,SS,Luis,Luis Marte,Marte,3.099999905,4,2100,NYM@MIA,MIA,NYM,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-152972:Luke Williams,62262-152972,2B,Luke,Luke Williams,Williams,3.784999847,40,2100,PHI@WSH,PHI,WSH,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-79255:Jake Bauers,62262-79255,1B,Jake,Jake Bauers,Bauers,4.597435976,78,2100,SEA@TB,SEA,TB,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-79279:Andrew Stevenson,62262-79279,OF,Andrew,Andrew Stevenson,Stevenson,3.833846107,65,2100,PHI@WSH,WSH,PHI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13917:Juan Lagares,62262-13917,OF,Juan,Juan Lagares,Lagares,6.170588325,68,2100,LAA@TEX,LAA,TEX,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-17012:Curt Casali,62262-17012,C,Curt,Curt Casali,Casali,6.615999756,50,2100,SF@ARI,SF,ARI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-82609:Lewin Diaz,62262-82609,1B,Lewin,Lewin Diaz,Diaz,5.233333333,15,2100,NYM@MIA,MIA,NYM,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-82616:Luis Guillorme,62262-82616,SS,Luis,Luis Guillorme,Guillorme,4.238596598,57,2100,NYM@MIA,NYM,MIA,IL,Hamstring,,,,SS/UTIL
+,,,,,,,,,,,,,62262-13034:Charlie Culberson,62262-13034,SS/OF,Charlie,Charlie Culberson,Culberson,5.86212112,66,2100,LAA@TEX,TEX,LAA,,,,,,SS/OF/UTIL
+,,,,,,,,,,,,,62262-68533:Brett Phillips,62262-68533,OF,Brett,Brett Phillips,Phillips,6.473809378,84,2100,SEA@TB,TB,SEA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-52153:David Dahl,62262-52153,OF,David,David Dahl,Dahl,5.822222028,63,2100,LAA@TEX,TEX,LAA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-5122:Alex Avila,62262-5122,C,Alex,Alex Avila,Avila,6.03333346,24,2000,PHI@WSH,WSH,PHI,IL,Calf,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-102406:Vidal Brujan,62262-102406,2B,Vidal,Vidal Brujan,Brujan,2.860000038,10,2000,SEA@TB,TB,SEA,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-102417:Anderson Tejeda,62262-102417,SS,Anderson,Anderson Tejeda,Tejeda,3.039999962,5,2000,LAA@TEX,TEX,LAA,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-102438:Geraldo Perdomo,62262-102438,SS,Geraldo,Geraldo Perdomo,Perdomo,3.799999952,4,2000,SF@ARI,ARI,SF,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-11311:Drew Butera,62262-11311,C,Drew,Drew Butera,Butera,2.725000064,12,2000,LAA@TEX,LAA,TEX,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-135223:Jakson Reetz,62262-135223,C,Jakson,Jakson Reetz,Reetz,4.599999905,2,2000,PHI@WSH,WSH,PHI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-135227:Jose Rojas,62262-135227,2B,Jose,Jose Rojas,Rojas,6.321738865,46,2000,LAA@TEX,LAA,TEX,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-135228:Jack Kruger,62262-135228,C,Jack,Jack Kruger,Kruger,0,1,2000,LAA@TEX,TEX,LAA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13388:Ryan LaMarre,62262-13388,OF,Ryan,Ryan LaMarre,LaMarre,7.622222053,9,2000,BAL@NYY,NYY,BAL,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13407:Bryan Holaday,62262-13407,C,Bryan,Bryan Holaday,Holaday,4.612500191,8,2000,SF@ARI,ARI,SF,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-82021:Tomas Nido,62262-82021,C,Tomas,Tomas Nido,Nido,5.482608629,46,2000,NYM@MIA,NYM,MIA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-157797:Bryan De La Cruz,62262-157797,OF,Bryan,Bryan De La Cruz,De La Cruz,2,3,2000,NYM@MIA,MIA,NYM,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-116841:Sam Haggerty,62262-116841,1B/OF,Sam,Sam Haggerty,Haggerty,5.471428571,35,2000,SEA@TB,SEA,TB,IL,Shoulder,,,,C/1B/OF/UTIL
+,,,,,,,,,,,,,62262-135276:Patrick Mazeika,62262-135276,C,Patrick,Patrick Mazeika,Mazeika,3.137500048,16,2000,NYM@MIA,NYM,MIA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-102513:Mario Feliciano,62262-102513,C,Mario,Mario Feliciano,Feliciano,6.199999809,1,2000,PIT@MIL,MIL,PIT,IL,Shoulder,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-135291:Jose Godoy,62262-135291,C,Jose,Jose Godoy,Godoy,2.931250095,16,2000,SEA@TB,SEA,TB,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-135305:Tucupita Marcano,62262-135305,3B,Tucupita,Tucupita Marcano,Marcano,3.116000061,25,2000,PIT@MIL,PIT,MIL,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-102541:Jared Oliva,62262-102541,OF,Jared,Jared Oliva,Oliva,3.390000153,20,2000,PIT@MIL,PIT,MIL,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-135310:Chadwick Tromp,62262-135310,C,Chadwick,Chadwick Tromp,Tromp,3.900000095,8,2000,SF@ARI,SF,ARI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-73875:Jose Martinez,62262-73875,OF,Jose,Jose Martinez,Martinez,5.147058824,34,2000,NYM@MIA,NYM,MIA,IL,Knee,,,,OF/UTIL
+,,,,,,,,,,,,,62262-116888:Jaylin Davis,62262-116888,OF,Jaylin,Jaylin Davis,Davis,1.839999962,5,2000,SF@ARI,SF,ARI,IL,Hamstring,,,,OF/UTIL
+,,,,,,,,,,,,,62262-152731:Chris Gittens,62262-152731,1B,Chris,Chris Gittens,Gittens,3.918750048,16,2000,BAL@NYY,NYY,BAL,IL,Ankle,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-39090:Erik Gonzalez,62262-39090,3B/SS,Erik,Erik Gonzalez,Gonzalez,5.097183013,71,2000,PIT@MIL,PIT,MIL,IL,Side,,,,3B/SS/UTIL
+,,,,,,,,,,,,,62262-145590:Jason Vosler,62262-145590,3B,Jason,Jason Vosler,Vosler,4.597499847,40,2000,SF@ARI,SF,ARI,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-102591:Jake Fraley,62262-102591,OF,Jake,Jake Fraley,Fraley,10.80250015,40,2000,SEA@TB,SEA,TB,IL,Illness,,,,OF/UTIL
+,,,,,,,,,,,,,62262-38087:Deven Marrero,62262-38087,3B,Deven,Deven Marrero,Marrero,12.36666616,3,2000,NYM@MIA,MIA,NYM,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-79070:Domingo Leyba,62262-79070,SS,Domingo,Domingo Leyba,Leyba,3.005882263,34,2000,BAL@NYY,BAL,NYY,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-53476:Scott Schebler,62262-53476,OF,Scott,Scott Schebler,Schebler,2.399999891,14,2000,LAA@TEX,LAA,TEX,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-83173:Jose Trevino,62262-83173,C,Jose,Jose Trevino,Trevino,4.987719084,57,2000,LAA@TEX,TEX,LAA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-149732:Hunter Owen,62262-149732,OF,Hunter,Hunter Owen,Owen,1,3,2000,PIT@MIL,PIT,MIL,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-83188:Kelvin Gutierrez,62262-83188,3B,Kelvin,Kelvin Gutierrez,Gutierrez,4.97826087,46,2000,BAL@NYY,BAL,NYY,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-83191:Austin Wynns,62262-83191,C,Austin,Austin Wynns,Wynns,5.820000076,20,2000,BAL@NYY,BAL,NYY,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-116994:Donovan Walton,62262-116994,SS,Donovan,Donovan Walton,Walton,5.445833206,24,2000,SEA@TB,SEA,TB,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-85254:Joey Bart,62262-85254,C,Joey,Joey Bart,Bart,6.349999905,2,2000,SF@ARI,SF,ARI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-5390:Robinson Cano,62262-5390,2B,Robinson,Robinson Cano,Cano,9.951020533,49,2000,NYM@MIA,NYM,MIA,NA,Suspension,,,,2B/UTIL
+,,,,,,,,,,,,,62262-79127:Derek Fisher,62262-79127,OF,Derek,Derek Fisher,Fisher,4.675000191,4,2000,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-21797:Jose Peraza,62262-21797,2B/OF,Jose,Jose Peraza,Peraza,6.028846154,52,2000,NYM@MIA,NYM,MIA,IL,Finger,,,,2B/OF/UTIL
+,,,,,,,,,,,,,62262-85287:Kean Wong,62262-85287,2B,Kean,Kean Wong,Wong,3.152631659,19,2000,LAA@TEX,LAA,TEX,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-79170:Willie Calhoun,62262-79170,OF,Willie,Willie Calhoun,Calhoun,7.459322137,59,2000,LAA@TEX,TEX,LAA,IL,Forearm,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79173:Corey Ray,62262-79173,OF,Corey,Corey Ray,Ray,6.199999809,1,2000,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79174:Jacob Nottingham,62262-79174,C,Jacob,Jacob Nottingham,Nottingham,6.466666667,15,2000,SEA@TB,SEA,TB,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-85320:Michael Perez,62262-85320,C,Michael,Michael Perez,Perez,6.435555691,45,2000,PIT@MIL,PIT,MIL,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-82251:Tim Locastro,62262-82251,OF,Tim,Tim Locastro,Locastro,3.9921875,64,2000,BAL@NYY,NYY,BAL,IL,Knee,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79181:Mauricio Dubon,62262-79181,SS/OF,Mauricio,Mauricio Dubon,Dubon,5.206060699,66,2000,SF@ARI,SF,ARI,,,,,,SS/OF/UTIL
+,,,,,,,,,,,,,62262-79189:Travis Blankenhorn,62262-79189,2B,Travis,Travis Blankenhorn,Blankenhorn,3.362499952,16,2000,NYM@MIA,NYM,MIA,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-79195:Miguel Andujar,62262-79195,3B/OF,Miguel,Miguel Andujar,Andujar,6.684444173,45,2000,BAL@NYY,NYY,BAL,IL,Wrist,,,,3B/OF/UTIL
+,,,,,,,,,,,,,62262-79204:Richie Martin,62262-79204,SS,Richie,Richie Martin,Martin,,,2000,BAL@NYY,BAL,NYY,IL,Wrist,,,,SS/UTIL
+,,,,,,,,,,,,,62262-79211:Mickey Moniak,62262-79211,OF,Mickey,Mickey Moniak,Moniak,3.924999873,12,2000,PHI@WSH,PHI,WSH,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79213:Scott Kingery,62262-79213,2B/OF,Scott,Scott Kingery,Kingery,0.413333321,15,2000,PHI@WSH,PHI,WSH,O,Shoulder,,,,2B/OF/UTIL
+,,,,,,,,,,,,,62262-79212:Andrew Knapp,62262-79212,C,Andrew,Andrew Knapp,Knapp,3.527083397,48,2000,PHI@WSH,PHI,WSH,IL,Personal,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-79219:Cole Tucker,62262-79219,SS,Cole,Cole Tucker,Tucker,1.669230828,13,2000,PIT@MIL,PIT,MIL,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-13687:Jordy Mercer,62262-13687,3B/SS,Jordy,Jordy Mercer,Mercer,4.243243243,37,2000,PHI@WSH,WSH,PHI,IL,Calf,,,,3B/SS/UTIL
+,,,,,,,,,,,,,62262-79231:Will Craig,62262-79231,3B,Will,Will Craig,Craig,5.305555556,18,2000,PIT@MIL,PIT,MIL,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-38276:Albert Almora Jr.,62262-38276,OF,Albert,Albert Almora Jr.,Almora Jr.,0.662500024,32,2000,NYM@MIA,NYM,MIA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-152970:Dillon Thomas,62262-152970,OF,Dillon,Dillon Thomas,Thomas,3.279999924,5,2000,SEA@TB,SEA,TB,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79263:Leody Taveras,62262-79263,OF,Leody,Leody Taveras,Taveras,3.060000102,15,2000,LAA@TEX,TEX,LAA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79262:Ronald Guzman,62262-79262,1B,Ronald,Ronald Guzman,Guzman,3.100000109,7,2000,LAA@TEX,TEX,LAA,IL,Knee,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-101796:Braden Bishop,62262-101796,OF,Braden,Braden Bishop,Bishop,0.774999976,8,2000,SF@ARI,SF,ARI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-118193:Nick Heath,62262-118193,OF,Nick,Nick Heath,Heath,2.154999924,20,2000,SF@ARI,ARI,SF,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-101817:Luis Rengifo,62262-101817,2B/3B,Luis,Luis Rengifo,Rengifo,4.464285714,28,2000,LAA@TEX,LAA,TEX,,,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-118204:Ryan McKenna,62262-118204,OF,Ryan,Ryan McKenna,McKenna,3.439999945,55,2000,BAL@NYY,BAL,NYY,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-118211:Kevin Padlo,62262-118211,3B,Kevin,Kevin Padlo,Padlo,1.688888868,9,2000,SEA@TB,TB,SEA,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-101828:Troy Stokes Jr.,62262-101828,OF,Troy,Troy Stokes Jr.,Stokes Jr.,4.300000191,8,2000,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-118214:Wyatt Mathisen,62262-118214,3B/OF,Wyatt,Wyatt Mathisen,Mathisen,3.721739064,23,2000,SEA@TB,SEA,TB,,,,,,3B/OF/UTIL
+,,,,,,,,,,,,,62262-101837:Jason Martin,62262-101837,OF,Jason,Jason Martin,Martin,3.624137878,29,2000,LAA@TEX,TEX,LAA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-118222:Mark Mathias,62262-118222,2B,Mark,Mark Mathias,Mathias,4.087500095,16,2000,PIT@MIL,MIL,PIT,IL,Shoulder,,,,2B/UTIL
+,,,,,,,,,,,,,62262-101844:Lane Thomas,62262-101844,OF,Lane,Lane Thomas,Thomas,2.184375048,32,2000,PHI@WSH,WSH,PHI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-145921:Ka'ai Tom,62262-145921,OF,Ka'ai,Ka'ai Tom,Tom,4.604166667,48,2000,PIT@MIL,PIT,MIL,IL,Back,,,,OF/UTIL
+,,,,,,,,,,,,,62262-95776:Pablo Reyes,62262-95776,OF,Pablo,Pablo Reyes,Reyes,2.67368417,38,2000,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-12863:Todd Frazier,62262-12863,1B/3B,Todd,Todd Frazier,Frazier,3.892307575,13,2000,PIT@MIL,PIT,MIL,,,,,,C/1B/3B/UTIL
+,,,,,,,,,,,,,62262-13892:Hernan Perez,62262-13892,3B/OF,Hernan,Hernan Perez,Perez,1.219999981,10,2000,PIT@MIL,MIL,PIT,,,,,,3B/OF/UTIL
+,,,,,,,,,,,,,62262-13894:Aaron Hicks,62262-13894,OF,Aaron,Aaron Hicks,Hicks,7.706250191,32,2000,BAL@NYY,NYY,BAL,IL,Wrist,,,,OF/UTIL
+,,,,,,,,,,,,,62262-119401:Rafael Marchan,62262-119401,C,Rafael,Rafael Marchan,Marchan,3.618181749,11,2000,PHI@WSH,PHI,WSH,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-119404:Nick Maton,62262-119404,SS/2B,Nick,Nick Maton,Maton,5.819148936,47,2000,PHI@WSH,PHI,WSH,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-135801:Jake Hager,62262-135801,1B,Jake,Jake Hager,Hager,0.885714258,7,2000,SF@ARI,ARI,SF,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-82556:Taylor Trammell,62262-82556,OF,Taylor,Taylor Trammell,Trammell,7.384313845,51,2000,SEA@TB,SEA,TB,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-118396:Mark Payton,62262-118396,OF,Mark,Mark Payton,Payton,1.016666651,24,2000,NYM@MIA,NYM,MIA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-82566:Tyler Nevin,62262-82566,1B,Tyler,Tyler Nevin,Nevin,4.5,2,2000,BAL@NYY,BAL,NYY,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-119439:Sam Huff,62262-119439,C,Sam,Sam Huff,Huff,10.5,10,2000,LAA@TEX,TEX,LAA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-82585:Khalil Lee,62262-82585,OF,Khalil,Khalil Lee,Lee,1.445454511,11,2000,NYM@MIA,NYM,MIA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-82593:Keibert Ruiz,62262-82593,C,Keibert,Keibert Ruiz,Ruiz,3.116666794,6,2000,PHI@WSH,WSH,PHI,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-21158:John Hicks,62262-21158,C,John,John Hicks,Hicks,10.66999969,10,2000,LAA@TEX,TEX,LAA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-82601:Brian Miller,62262-82601,OF,Brian,Brian Miller,Miller,1.5,2,2000,NYM@MIA,MIA,NYM,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-84655:Stevie Wilkerson,62262-84655,OF,Stevie,Stevie Wilkerson,Wilkerson,3.062069071,29,2000,BAL@NYY,BAL,NYY,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-82606:Monte Harrison,62262-82606,OF,Monte,Monte Harrison,Harrison,1,9,2000,NYM@MIA,MIA,NYM,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-82619:Estevan Florial,62262-82619,OF,Estevan,Estevan Florial,Florial,8.824999809,8,2000,BAL@NYY,NYY,BAL,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-82626:Adam Haseley,62262-82626,OF,Adam,Adam Haseley,Haseley,2.377777735,9,2000,PHI@WSH,PHI,WSH,IL,Illness,,,,OF/UTIL
+,,,,,,,,,,,,,62262-17096:Wilfredo Tovar,62262-17096,SS,Wilfredo,Wilfredo Tovar,Tovar,2.083333333,6,2000,NYM@MIA,NYM,MIA,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-82637:Evan White,62262-82637,1B,Evan,Evan White,White,4.903333537,30,2000,SEA@TB,SEA,TB,IL,Hip,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-11989:Jon Jay,62262-11989,OF,Jon,Jon Jay,Jay,4.979999924,5,2000,LAA@TEX,LAA,TEX,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-82644:Jesus Sanchez,62262-82644,OF,Jesus,Jesus Sanchez,Sanchez,7.682608563,23,2000,NYM@MIA,MIA,NYM,IL,Undisclosed,,,,OF/UTIL
+,,,,,,,,,,,,,62262-14038:Khris Davis,62262-14038,OF,Khris,Khris Davis,Davis,5.368181749,22,2000,LAA@TEX,TEX,LAA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-21212:Mason Williams,62262-21212,OF,Mason,Mason Williams,Williams,3.417646969,17,2000,NYM@MIA,NYM,MIA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-110306:Humberto Arteaga,62262-110306,SS,Humberto,Humberto Arteaga,Arteaga,3.5,1,2000,PHI@WSH,WSH,PHI,,,,,,SS/UTIL
+,,,,,,,,,,,,,62262-148210:Cody Wilson,62262-148210,OF,Cody,Cody Wilson,Wilson,0,1,2000,PHI@WSH,WSH,PHI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-112379:Tim Lopes,62262-112379,OF,Tim,Tim Lopes,Lopes,1.839999962,5,2000,PIT@MIL,MIL,PIT,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-13054:Rob Brantly,62262-13054,C,Rob,Rob Brantly,Brantly,2.25,4,2000,BAL@NYY,NYY,BAL,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-52995:Luke Maile,62262-52995,C,Luke,Luke Maile,Maile,3.837500095,8,2000,PIT@MIL,MIL,PIT,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-53007:Daniel Robertson,62262-53007,3B,Daniel,Daniel Robertson,Robertson,3.02,50,2000,PIT@MIL,MIL,PIT,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-5904:Chris Davis,62262-5904,1B,Chris,Chris Davis,Davis,3.068749905,16,2000,BAL@NYY,BAL,NYY,IL,Hip,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13102:Freddy Galvis,62262-13102,2B/SS,Freddy,Freddy Galvis,Galvis,8.113889058,72,2000,PHI@WSH,PHI,WSH,IL,Quadriceps,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-154422:Matt Vierling,62262-154422,OF,Matt,Matt Vierling,Vierling,3.03333346,6,2000,PHI@WSH,PHI,WSH,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-110404:Mike Brosseau,62262-110404,2B/3B,Mike,Mike Brosseau,Brosseau,5.9,55,2000,SEA@TB,TB,SEA,,,,,,2B/3B/UTIL
+,,,,,,,,,,,,,62262-104273:Anthony Bemboom,62262-104273,C,Anthony,Anthony Bemboom,Bemboom,4.300000191,8,2000,LAA@TEX,LAA,TEX,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-137070:Joseph Odom,62262-137070,C,Joseph,Joseph Odom,Odom,0,2,2000,SEA@TB,TB,SEA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-6005:Matt Joyce,62262-6005,OF,Matt,Matt Joyce,Joyce,2.944444444,36,2000,PHI@WSH,PHI,WSH,IL,Back,,,,OF/UTIL
+,,,,,,,,,,,,,62262-68481:Roman Quinn,62262-68481,OF,Roman,Roman Quinn,Quinn,4.700000218,28,2000,PHI@WSH,PHI,WSH,IL,Achilles,,,,OF/UTIL
+,,,,,,,,,,,,,62262-102279:Drew Ellis,62262-102279,3B,Drew,Drew Ellis,Ellis,2.066666603,3,2000,SF@ARI,ARI,SF,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-82824:Mike Ford,62262-82824,1B,Mike,Mike Ford,Ford,5.622727134,22,2000,SEA@TB,TB,SEA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-68492:Chance Sisco,62262-68492,C,Chance,Chance Sisco,Sisco,3.621739263,23,2000,NYM@MIA,NYM,MIA,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-13203:Eric Campbell,62262-13203,1B,Eric,Eric Campbell,Campbell,3.799999952,4,2000,SEA@TB,SEA,TB,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-102295:Stuart Fairchild,62262-102295,OF,Stuart,Stuart Fairchild,Fairchild,1.239999962,10,2000,SF@ARI,ARI,SF,IL,Undisclosed,,,,OF/UTIL
+,,,,,,,,,,,,,62262-157599:Corey Bird,62262-157599,OF,Corey,Corey Bird,Bird,,,2000,NYM@MIA,MIA,NYM,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-6047:Cameron Maybin,62262-6047,OF,Cameron,Cameron Maybin,Maybin,3.377777735,9,2000,NYM@MIA,NYM,MIA,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-79785:Jose Marmolejos,62262-79785,1B/OF,Jose,Jose Marmolejos,Marmolejos,5.325806649,31,2000,SEA@TB,SEA,TB,,,,,,C/1B/OF/UTIL
+,,,,,,,,,,,,,62262-52150:Clint Frazier,62262-52150,OF,Clint,Clint Frazier,Frazier,6.174242424,66,2000,BAL@NYY,NYY,BAL,IL,Eye,,,,OF/UTIL
+,,,,,,,,,,,,,62262-68537:Tyler Wade,62262-68537,2B/SS,Tyler,Tyler Wade,Wade,2.834374905,64,2000,BAL@NYY,NYY,BAL,,,,,,2B/SS/UTIL
+,,,,,,,,,,,,,62262-68538:Franklin Barreto,62262-68538,2B,Franklin,Franklin Barreto,Barreto,1.80952381,21,2000,LAA@TEX,LAA,TEX,IL,Elbow,,,,2B/UTIL
+,,,,,,,,,,,,,62262-52157:Tom Murphy,62262-52157,C,Tom,Tom Murphy,Murphy,6.8125,64,2000,SEA@TB,SEA,TB,,,,,,C/1B/UTIL
+,,,,,,,,,,,,,62262-80847:Mike Tauchman,62262-80847,OF,Mike,Mike Tauchman,Tauchman,4.718666585,75,2000,SF@ARI,SF,ARI,,,,,,OF/UTIL
+,,,,,,,,,,,,,62262-80853:Dustin Fowler,62262-80853,OF,Dustin,Dustin Fowler,Fowler,3.255555471,18,2000,PIT@MIL,PIT,MIL,IL,Undisclosed,,,,OF/UTIL
+,,,,,,,,,,,,,62262-156630:Trey Amburgey,62262-156630,OF,Trey,Trey Amburgey,Amburgey,0,2,2000,BAL@NYY,NYY,BAL,IL,Hamstring,,,,OF/UTIL
+,,,,,,,,,,,,,62262-5077:Dexter Fowler,62262-5077,OF,Dexter,Dexter Fowler,Fowler,5.299999782,7,2000,LAA@TEX,LAA,TEX,IL,Knee,,,,OF/UTIL
+,,,,,,,,,,,,,62262-80852:Ildemaro Vargas,62262-80852,2B,Ildemaro,Ildemaro Vargas,Vargas,3.28,25,2000,SF@ARI,ARI,SF,,,,,,2B/UTIL
+,,,,,,,,,,,,,62262-80855:Adrian Sanchez,62262-80855,3B,Adrian,Adrian Sanchez,Sanchez,4.5,2,2000,PHI@WSH,WSH,PHI,,,,,,3B/UTIL
+,,,,,,,,,,,,,62262-102358:Jose Devers,62262-102358,SS,Jose,Jose Devers,Devers,4.328571501,21,2000,NYM@MIA,MIA,NYM,IL,Shoulder,,,,SS/UTIL
+,,,,,,,,,,,,,62262-68594:Anthony Alford,62262-68594,OF,Anthony,Anthony Alford,Alford,3.036363775,11,2000,PIT@MIL,PIT,MIL,,,,,,OF/UTIL
