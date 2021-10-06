@@ -1,0 +1,12 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea\vcs.xml" t="1633505280" />
+    <f p="./.idea\workspace.xml" t="1633505445" />
+    <f p="./.idea\files.iml" t="1633505445" />
+    <f p="./.idea\misc.xml" t="1633505445" />
+    <f p="./.idea\modules.xml" t="1633505280" />
+  </project-files>
+</conversion>
