@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Package IgnorableNamespaces="uap uap2 uap3" xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap2="http://schemas.microsoft.com/appx/manifest/uap/windows10/2" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3">
+  <Identity Name="42CEE6CD-98A1-4A32-BD2E-084C451C95E5" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="1.0.2110.8007"/>
+  <Properties>
+    <DisplayName>Search</DisplayName>
+    <PublisherDisplayName>Microsoft Office Services</PublisherDisplayName>
+    <Logo>smartLookupIcon.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10240.0" MaxVersionTested="12.0.0.0"/>
+    <TargetDeviceFamily Name="Platform.All" MinVersion="0.0.0.0" MaxVersionTested="0.0.0.0"/>
+  </Dependencies>
+  <Resources>
+    <Resource Language="en-us"/>
+  </Resources>
+  <Applications>
+    <Application Id="Microsoft.Office.FA000000006">
+      <uap:VisualElements DisplayName="Search" Square150x150Logo="smartLookupIcon.png" Square44x44Logo="smartLookupIcon.png" Description="Search" BackgroundColor="transparent" AppListEntry="none"/>
+      <Extensions>
+        <uap3:Extension Category="windows.appExtension">
+          <uap3:AppExtension Name="office-add-in-contract" Id="Document-add-in" PublicFolder="public\Search" DisplayName="Search" Description="Search">
+            <uap3:Properties/>
+          </uap3:AppExtension>
+        </uap3:Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+</Package>

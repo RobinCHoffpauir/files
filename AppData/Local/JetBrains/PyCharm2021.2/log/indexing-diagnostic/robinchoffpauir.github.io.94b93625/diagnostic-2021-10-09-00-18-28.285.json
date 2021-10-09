@@ -1,0 +1,1396 @@
+{
+  "appInfo" : {
+    "build" : "212.5284.44",
+    "buildDate" : "2021-09-14T16:26:21.206Z[UTC]",
+    "productCode" : "PY",
+    "generated" : "2021-10-09T05:18:28.2851152Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.12 11.0.12+7-b1504.28"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 786432000,
+    "numberOfProcessors" : 2,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "RobinCHoffpauir.github.io",
+    "times" : {
+      "indexingReason" : "On project open",
+      "totalUpdatingTime" : 720360508100,
+      "indexingTime" : 691714031800,
+      "contentLoadingTime" : 546299946972,
+      "scanFilesTime" : 27502270300,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2021-10-09T05:06:27.9210241Z",
+      "updatingEnd" : "2021-10-09T05:18:28.2829333Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 20,
+      "numberOfScannedFiles" : 67363,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 40465,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 7484,
+      "numberOfFilesIndexedWithLoadingContent" : 40460
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalProcessingTime" : {
+        "part" : 428813226700,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 340721374700,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 25067,
+      "totalFilesSize" : 327116091,
+      "indexingSpeed" : {
+        "totalBytes" : 327116091,
+        "totalTime" : 428813226700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 25067,
+        "totalFilesSize" : 327116091,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 428813226700,
+          "total" : 428813226700
+        }
+      } ]
+    }, {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 65666747900,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 42184149600,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 995,
+      "totalFilesSize" : 133457097,
+      "indexingSpeed" : {
+        "totalBytes" : 133457097,
+        "totalTime" : 65666747900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 995,
+        "totalFilesSize" : 133457097,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 65666747900,
+          "total" : 65666747900
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 53773138700,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 49214035600,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 4706,
+      "totalFilesSize" : 74712843,
+      "indexingSpeed" : {
+        "totalBytes" : 74712843,
+        "totalTime" : 53773138700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 4706,
+        "totalFilesSize" : 74712843,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 53773138700,
+          "total" : 53773138700
+        }
+      } ]
+    }, {
+      "fileType" : "PythonStub",
+      "partOfTotalProcessingTime" : {
+        "part" : 34293229000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 30111699000,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 3185,
+      "totalFilesSize" : 7089849,
+      "indexingSpeed" : {
+        "totalBytes" : 7089849,
+        "totalTime" : 34293229000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 3185,
+        "totalFilesSize" : 7089849,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 34293229000,
+          "total" : 34293229000
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 21752285300,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 15791084500,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 1288,
+      "totalFilesSize" : 34200747,
+      "indexingSpeed" : {
+        "totalBytes" : 34200747,
+        "totalTime" : 21752285300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 1286,
+        "totalFilesSize" : 34199177,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 21727035400,
+          "total" : 21752285300
+        }
+      }, {
+        "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@5f058fdf' (non-project)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 1570,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 25249900,
+          "total" : 21752285300
+        }
+      } ]
+    }, {
+      "fileType" : "C++",
+      "partOfTotalProcessingTime" : {
+        "part" : 16995653000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 15434279500,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 1474,
+      "totalFilesSize" : 15823339,
+      "indexingSpeed" : {
+        "totalBytes" : 15823339,
+        "totalTime" : 16995653000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 1474,
+        "totalFilesSize" : 15823339,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 16995653000,
+          "total" : 16995653000
+        }
+      } ]
+    }, {
+      "fileType" : "TypeScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 11653419600,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 8874791900,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 651,
+      "totalFilesSize" : 4287536,
+      "indexingSpeed" : {
+        "totalBytes" : 4287536,
+        "totalTime" : 11653419600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 651,
+        "totalFilesSize" : 4287536,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 11653419600,
+          "total" : 11653419600
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 9762865500,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 7867120200,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 846,
+      "totalFilesSize" : 15489477,
+      "indexingSpeed" : {
+        "totalBytes" : 15489477,
+        "totalTime" : 9762865500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 846,
+        "totalFilesSize" : 15489477,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 9762865500,
+          "total" : 9762865500
+        }
+      } ]
+    }, {
+      "fileType" : "Cython",
+      "partOfTotalProcessingTime" : {
+        "part" : 9203106600,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6334092200,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 484,
+      "totalFilesSize" : 7307530,
+      "indexingSpeed" : {
+        "totalBytes" : 7307530,
+        "totalTime" : 9203106600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 484,
+        "totalFilesSize" : 7307530,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 9203106600,
+          "total" : 9203106600
+        }
+      } ]
+    }, {
+      "fileType" : "CSV/TSV",
+      "partOfTotalProcessingTime" : {
+        "part" : 9054144700,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6106321000,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 346,
+      "totalFilesSize" : 32104382,
+      "indexingSpeed" : {
+        "totalBytes" : 32104382,
+        "totalTime" : 9054144700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 346,
+        "totalFilesSize" : 32104382,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 9054144700,
+          "total" : 9054144700
+        }
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 7030998000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4423404600,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 118,
+      "totalFilesSize" : 2725957,
+      "indexingSpeed" : {
+        "totalBytes" : 2725957,
+        "totalTime" : 7030998000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 118,
+        "totalFilesSize" : 2725957,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7030998000,
+          "total" : 7030998000
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 5631056300,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4350997400,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 249,
+      "totalFilesSize" : 9812149,
+      "indexingSpeed" : {
+        "totalBytes" : 9812149,
+        "totalTime" : 5631056300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 249,
+        "totalFilesSize" : 9812149,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5631056300,
+          "total" : 5631056300
+        }
+      } ]
+    }, {
+      "fileType" : "SVG",
+      "partOfTotalProcessingTime" : {
+        "part" : 4258517400,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3946781900,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 302,
+      "totalFilesSize" : 3316204,
+      "indexingSpeed" : {
+        "totalBytes" : 3316204,
+        "totalTime" : 4258517400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 302,
+        "totalFilesSize" : 3316204,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 4258517400,
+          "total" : 4258517400
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 2967389000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2277829200,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 188,
+      "totalFilesSize" : 676756,
+      "indexingSpeed" : {
+        "totalBytes" : 676756,
+        "totalTime" : 2967389000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 188,
+        "totalFilesSize" : 676756,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2967389000,
+          "total" : 2967389000
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 1866769700,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 980446500,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 102,
+      "totalFilesSize" : 4145523,
+      "indexingSpeed" : {
+        "totalBytes" : 4145523,
+        "totalTime" : 1866769700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 102,
+        "totalFilesSize" : 4145523,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1866769700,
+          "total" : 1866769700
+        }
+      } ]
+    }, {
+      "fileType" : "Ini",
+      "partOfTotalProcessingTime" : {
+        "part" : 1300527000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1241734600,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 105,
+      "totalFilesSize" : 171386,
+      "indexingSpeed" : {
+        "totalBytes" : 171386,
+        "totalTime" : 1300527000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 105,
+        "totalFilesSize" : 171386,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1300527000,
+          "total" : 1300527000
+        }
+      } ]
+    }, {
+      "fileType" : "YAML",
+      "partOfTotalProcessingTime" : {
+        "part" : 1085836500,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1004951100,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 75,
+      "totalFilesSize" : 69138,
+      "indexingSpeed" : {
+        "totalBytes" : 69138,
+        "totalTime" : 1085836500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 75,
+        "totalFilesSize" : 69138,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1085836500,
+          "total" : 1085836500
+        }
+      } ]
+    }, {
+      "fileType" : "ReST",
+      "partOfTotalProcessingTime" : {
+        "part" : 1031827200,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 958138300,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 103,
+      "totalFilesSize" : 211801,
+      "indexingSpeed" : {
+        "totalBytes" : 211801,
+        "totalTime" : 1031827200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 103,
+        "totalFilesSize" : 211801,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1031827200,
+          "total" : 1031827200
+        }
+      } ]
+    }, {
+      "fileType" : "SCSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 883683800,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 831521500,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 28,
+      "totalFilesSize" : 58529,
+      "indexingSpeed" : {
+        "totalBytes" : 58529,
+        "totalTime" : 883683800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 28,
+        "totalFilesSize" : 58529,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 883683800,
+          "total" : 883683800
+        }
+      } ]
+    }, {
+      "fileType" : "Jupyter",
+      "partOfTotalProcessingTime" : {
+        "part" : 730823600,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 560799700,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 26,
+      "totalFilesSize" : 3130343,
+      "indexingSpeed" : {
+        "totalBytes" : 3130343,
+        "totalTime" : 730823600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 26,
+        "totalFilesSize" : 3130343,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 730823600,
+          "total" : 730823600
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalProcessingTime" : {
+        "part" : 570326000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 510768200,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 59,
+      "totalFilesSize" : 131795,
+      "indexingSpeed" : {
+        "totalBytes" : 131795,
+        "totalTime" : 570326000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 59,
+        "totalFilesSize" : 131795,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 570326000,
+          "total" : 570326000
+        }
+      } ]
+    }, {
+      "fileType" : "Flow",
+      "partOfTotalProcessingTime" : {
+        "part" : 545943400,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 528077600,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 12,
+      "totalFilesSize" : 369298,
+      "indexingSpeed" : {
+        "totalBytes" : 369298,
+        "totalTime" : 545943400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 12,
+        "totalFilesSize" : 369298,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 545943400,
+          "total" : 545943400
+        }
+      } ]
+    }, {
+      "fileType" : "Puppet",
+      "partOfTotalProcessingTime" : {
+        "part" : 255560600,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 71407500,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 505474,
+      "indexingSpeed" : {
+        "totalBytes" : 505474,
+        "totalTime" : 255560600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 505474,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 255560600,
+          "total" : 255560600
+        }
+      } ]
+    }, {
+      "fileType" : "yarn.lock",
+      "partOfTotalProcessingTime" : {
+        "part" : 113310800,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 92144000,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 442906,
+      "indexingSpeed" : {
+        "totalBytes" : 442906,
+        "totalTime" : 113310800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 442906,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 113310800,
+          "total" : 113310800
+        }
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 96312900,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 74685900,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 11,
+      "totalFilesSize" : 6105,
+      "indexingSpeed" : {
+        "totalBytes" : 6105,
+        "totalTime" : 96312900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : 6105,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 96312900,
+          "total" : 96312900
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 62717400,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 35654000,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 45335,
+      "indexingSpeed" : {
+        "totalBytes" : 45335,
+        "totalTime" : 62717400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 45335,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 62717400,
+          "total" : 62717400
+        }
+      } ]
+    }, {
+      "fileType" : "C#",
+      "partOfTotalProcessingTime" : {
+        "part" : 46462100,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 42696800,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : 9892,
+      "indexingSpeed" : {
+        "totalBytes" : 9892,
+        "totalTime" : 46462100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : 9892,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 46462100,
+          "total" : 46462100
+        }
+      } ]
+    }, {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 30919000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1040800,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : 10732,
+      "indexingSpeed" : {
+        "totalBytes" : 10732,
+        "totalTime" : 30919000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : 10732,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 30919000,
+          "total" : 30919000
+        }
+      } ]
+    }, {
+      "fileType" : "Locale",
+      "partOfTotalProcessingTime" : {
+        "part" : 30491400,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 14225100,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 1096,
+      "indexingSpeed" : {
+        "totalBytes" : 1096,
+        "totalTime" : 30491400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1096,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 30491400,
+          "total" : 30491400
+        }
+      } ]
+    }, {
+      "fileType" : "tsconfig",
+      "partOfTotalProcessingTime" : {
+        "part" : 26941800,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 25597400,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 613,
+      "indexingSpeed" : {
+        "totalBytes" : 613,
+        "totalTime" : 26941800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 613,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 26941800,
+          "total" : 26941800
+        }
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalProcessingTime" : {
+        "part" : 23379300,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 21486700,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 1310,
+      "indexingSpeed" : {
+        "totalBytes" : 1310,
+        "totalTime" : 23379300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 1310,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 23379300,
+          "total" : 23379300
+        }
+      } ]
+    }, {
+      "fileType" : "EditorConfig",
+      "partOfTotalProcessingTime" : {
+        "part" : 20209000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 5039500,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 160,
+      "indexingSpeed" : {
+        "totalBytes" : 160,
+        "totalTime" : 20209000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 160,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 20209000,
+          "total" : 20209000
+        }
+      } ]
+    }, {
+      "fileType" : "Qt UI file",
+      "partOfTotalProcessingTime" : {
+        "part" : 7175000,
+        "total" : 689584994200
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6043700,
+        "total" : 544644420200
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 8729,
+      "indexingSpeed" : {
+        "totalBytes" : 8729,
+        "totalTime" : 7175000
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'RobinCHoffpauir.github.io'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 8729,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7175000,
+          "total" : 7175000
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "HashFragmentIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 48323253300,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 29931,
+      "totalNumberOfFilesIndexedByExtensions" : 7362,
+      "totalFilesSize" : 275672964,
+      "indexingSpeed" : {
+        "totalBytes" : 275672964,
+        "totalTime" : 48323253300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 37200680700,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 40409,
+      "totalNumberOfFilesIndexedByExtensions" : 7484,
+      "totalFilesSize" : 673081260,
+      "indexingSpeed" : {
+        "totalBytes" : 673081260,
+        "totalTime" : 37200680700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 793640900,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 1321,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 33784830,
+      "indexingSpeed" : {
+        "totalBytes" : 33784830,
+        "totalTime" : 793640900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 745532700,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 1321,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 33784830,
+      "indexingSpeed" : {
+        "totalBytes" : 33784830,
+        "totalTime" : 745532700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "CompassFunctionsIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 209402300,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 105985,
+      "indexingSpeed" : {
+        "totalBytes" : 105985,
+        "totalTime" : 209402300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 19699200,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 704,
+      "indexingSpeed" : {
+        "totalBytes" : 704,
+        "totalTime" : 19699200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 17779500,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 704,
+      "indexingSpeed" : {
+        "totalBytes" : 704,
+        "totalTime" : 17779500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 3738600,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 127331,
+      "indexingSpeed" : {
+        "totalBytes" : 127331,
+        "totalTime" : 3738600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "PuppetRubyPluginsIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1606700,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 104768,
+      "indexingSpeed" : {
+        "totalBytes" : 104768,
+        "totalTime" : 1606700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DjangoBlockInheritanceIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1568200,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 704,
+      "indexingSpeed" : {
+        "totalBytes" : 704,
+        "totalTime" : 1568200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 999400,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 704,
+      "indexingSpeed" : {
+        "totalBytes" : 704,
+        "totalTime" : 999400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 289100,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 704,
+      "indexingSpeed" : {
+        "totalBytes" : 704,
+        "totalTime" : 289100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 286600,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 127331,
+      "indexingSpeed" : {
+        "totalBytes" : 127331,
+        "totalTime" : 286600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 112400,
+        "total" : 87318589600
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 704,
+      "indexingSpeed" : {
+        "totalBytes" : 704,
+        "totalTime" : 112400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'RobinCHoffpauir.github.io'",
+      "numberOfScannedFiles" : 67129,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 40463,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 17352221300,
+      "timeProcessingUpToDateFiles" : 1877383000,
+      "timeUpdatingContentLessIndexes" : 1474916400,
+      "timeIndexingWithoutContent" : 208665800
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.HttpRequestCollectionProvider@6bdefbc6' (non-project)",
+      "numberOfScannedFiles" : 7,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 14029900,
+      "timeProcessingUpToDateFiles" : 55300,
+      "timeUpdatingContentLessIndexes" : 8300,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@5f058fdf' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 5,
+      "numberOfFilesForIndexing" : 2,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 10186500,
+      "timeProcessingUpToDateFiles" : 993700,
+      "timeUpdatingContentLessIndexes" : 287500,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@389613aa",
+      "numberOfScannedFiles" : 3,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1796700,
+      "timeProcessingUpToDateFiles" : 42900,
+      "timeUpdatingContentLessIndexes" : 6000,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'org.jetbrains.plugins.scss.index.SassScssIndexedRootProvider@4c1e91b6' (non-project)",
+      "numberOfScannedFiles" : 8,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 365700,
+      "timeProcessingUpToDateFiles" : 50400,
+      "timeUpdatingContentLessIndexes" : 7600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.run.HttpClientDynamicVariablesStubController@33c48a55' (non-project)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 209600,
+      "timeProcessingUpToDateFiles" : 33500,
+      "timeUpdatingContentLessIndexes" : 2600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'JS required libraries' (project)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 74,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 167800,
+      "timeProcessingUpToDateFiles" : 40900,
+      "timeUpdatingContentLessIndexes" : 2500,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@5f058fdf' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.lang.puppet.psi.resolve.PuppetIndexableSetContributor@2fe73c01' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.lang.puppet.psi.resolve.PuppetIndexableSetContributor@2fe73c01' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'org.jetbrains.plugins.scss.index.SassScssIndexedRootProvider@4c1e91b6' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'JS required libraries' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 13,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'TypeScript bundled libraries' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 65,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'TypeScript bundled libraries' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.HttpRequestCollectionProvider@6bdefbc6' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.httpClient.http.request.run.HttpClientDynamicVariablesStubController@33c48a55' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.openapi.roots.ImmutableSyntheticLibrary@a0b78f73",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Python SDK Python 3.9 (Stocks)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 49,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'RobinCHoffpauir.github.io'",
+      "totalNumberOfIndexedFiles" : 40458,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 7484,
+      "totalIndexingTime" : 691655711700,
+      "contentLoadingTime" : 546291420430,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "test_dbm_dumb.py",
+        "processingTime" : 1198439400,
+        "indexingTime" : 19500,
+        "contentLoadingTime" : 1197089500
+      }, {
+        "fileName" : "app_index.html",
+        "processingTime" : 1237857800,
+        "indexingTime" : 1189323000,
+        "contentLoadingTime" : 45455800
+      }, {
+        "fileName" : "bokeh-widgets.esm.js",
+        "processingTime" : 1385259700,
+        "indexingTime" : 199797000,
+        "contentLoadingTime" : 392082500
+      }, {
+        "fileName" : "bokeh-mathjax.legacy.min.js",
+        "processingTime" : 1425291900,
+        "indexingTime" : 90587100,
+        "contentLoadingTime" : 1278274500
+      }, {
+        "fileName" : "sitecustomize.py",
+        "processingTime" : 1514652700,
+        "indexingTime" : 10935600,
+        "contentLoadingTime" : 1502455600
+      }, {
+        "fileName" : "apps.py",
+        "processingTime" : 25135390200,
+        "indexingTime" : 2614700,
+        "contentLoadingTime" : 2063370400
+      }, {
+        "fileName" : "bokeh-widgets.legacy.js",
+        "processingTime" : 1411457700,
+        "indexingTime" : 512473800,
+        "contentLoadingTime" : 850346400
+      }, {
+        "fileName" : "compiler.js",
+        "processingTime" : 2493170700,
+        "indexingTime" : 1778046100,
+        "contentLoadingTime" : 137856800
+      }, {
+        "fileName" : "bokeh.js",
+        "processingTime" : 1640608500,
+        "indexingTime" : 119955700,
+        "contentLoadingTime" : 1479316000
+      }, {
+        "fileName" : "bokeh.esm.js",
+        "processingTime" : 1620318800,
+        "indexingTime" : 109232400,
+        "contentLoadingTime" : 1485610600
+      } ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@5f058fdf' (non-project)",
+      "totalNumberOfIndexedFiles" : 2,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 25446400,
+      "contentLoadingTime" : 8526542,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    } ]
+  }
+}
